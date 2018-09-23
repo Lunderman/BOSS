@@ -1,0 +1,6 @@
+numpy==1.13.1
+matplotlib==2.0.2 
+seaborn==0.8.1
+emcee==2.2.1
+corner==2.0.0
+pandas==0.20.3
